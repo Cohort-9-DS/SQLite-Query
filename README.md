@@ -1,5 +1,6 @@
 # SQLite-Query
 
+For commands with the LIKE statement in sqlite, refer to: http://www.sqlitetutorial.net/sqlite-like/
 
 - Provide a query showing Customers (just their full names, customer ID and country) who are not in the US.
 - Provide a query only showing the Customers from Brazil.
